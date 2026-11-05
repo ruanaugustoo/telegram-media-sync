@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+env/
+
+# Local configuration
+.env
+
+# Database / sent media cache
+sent_media.json
+
+# System files
+__pycache__/
+*.pyc
+.DS_Store
